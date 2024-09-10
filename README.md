@@ -8,3 +8,4 @@ Para melhor acompanhamento dessa apresentação, faça o download desse reposit�
 
 - [Modelos e objetos pré-compilados](https://drive.google.com/file/d/1XPpN1RJVyJ2DaPjMD3HoWdt105XpA3HI/view?usp=sharing)
 
+Descompacte os arquivos e os insira dentro da pasta onde estará esse repositório na sua máquina.
